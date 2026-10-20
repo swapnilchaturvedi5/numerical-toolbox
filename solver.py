@@ -3,3 +3,6 @@ def f(x):
 
 def g(x):
     return 2*x+1
+
+def h(x):
+    return 2*x**3+1
