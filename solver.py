@@ -6,3 +6,5 @@ def g(x):
 
 def h(x):
     return 2*x**3+1
+
+print("Hello")
